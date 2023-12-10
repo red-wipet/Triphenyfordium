@@ -1,0 +1,19 @@
+﻿  Triphenyfordium.peaceful.cpp
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium.peaceful\Triphenyfordium.peaceful\Triphenyfordium.peaceful.cpp(160,7): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium.peaceful\Triphenyfordium.peaceful\Triphenyfordium.peaceful.cpp(170,10): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium.peaceful\Triphenyfordium.peaceful\Triphenyfordium.peaceful.cpp(175,10): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium.peaceful\Triphenyfordium.peaceful\Triphenyfordium.peaceful.cpp(487,9): warning C4101: brush: неиспользованная локальная переменная
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium.peaceful\Triphenyfordium.peaceful\Triphenyfordium.peaceful.cpp(543,9): warning C4101: brush: неиспользованная локальная переменная
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium.peaceful\Triphenyfordium.peaceful\Triphenyfordium.peaceful.cpp(599,9): warning C4101: brush: неиспользованная локальная переменная
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium.peaceful\Triphenyfordium.peaceful\Triphenyfordium.peaceful.cpp(655,9): warning C4101: brush: неиспользованная локальная переменная
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium.peaceful\Triphenyfordium.peaceful\Triphenyfordium.peaceful.cpp(711,9): warning C4101: brush: неиспользованная локальная переменная
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium.peaceful\Triphenyfordium.peaceful\Triphenyfordium.peaceful.cpp(767,9): warning C4101: brush: неиспользованная локальная переменная
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium.peaceful\Triphenyfordium.peaceful\Triphenyfordium.peaceful.cpp(823,9): warning C4101: brush: неиспользованная локальная переменная
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium.peaceful\Triphenyfordium.peaceful\Triphenyfordium.peaceful.cpp(879,9): warning C4101: brush: неиспользованная локальная переменная
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium.peaceful\Triphenyfordium.peaceful\Triphenyfordium.peaceful.cpp(935,9): warning C4101: brush: неиспользованная локальная переменная
+  Создание кода
+  1 of 15 functions ( 6.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Triphenyfordium.peaceful.vcxproj -> C:\Users\MrSuperBuddy\source\repos\Triphenyfordium.peaceful\Release\Triphenyfordium.peaceful.exe

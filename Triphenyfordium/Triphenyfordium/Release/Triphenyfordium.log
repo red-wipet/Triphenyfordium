@@ -1,0 +1,19 @@
+﻿  Triphenyfordium.cpp
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium\Triphenyfordium\Triphenyfordium.cpp(160,7): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium\Triphenyfordium\Triphenyfordium.cpp(170,10): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium\Triphenyfordium\Triphenyfordium.cpp(175,10): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium\Triphenyfordium\Triphenyfordium.cpp(505,9): warning C4101: brush: неиспользованная локальная переменная
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium\Triphenyfordium\Triphenyfordium.cpp(561,9): warning C4101: brush: неиспользованная локальная переменная
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium\Triphenyfordium\Triphenyfordium.cpp(617,9): warning C4101: brush: неиспользованная локальная переменная
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium\Triphenyfordium\Triphenyfordium.cpp(673,9): warning C4101: brush: неиспользованная локальная переменная
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium\Triphenyfordium\Triphenyfordium.cpp(729,9): warning C4101: brush: неиспользованная локальная переменная
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium\Triphenyfordium\Triphenyfordium.cpp(785,9): warning C4101: brush: неиспользованная локальная переменная
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium\Triphenyfordium\Triphenyfordium.cpp(841,9): warning C4101: brush: неиспользованная локальная переменная
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium\Triphenyfordium\Triphenyfordium.cpp(897,9): warning C4101: brush: неиспользованная локальная переменная
+C:\Users\MrSuperBuddy\source\repos\Triphenyfordium\Triphenyfordium\Triphenyfordium.cpp(953,9): warning C4101: brush: неиспользованная локальная переменная
+  Создание кода
+  Создание кода завершено
+  1 of 17 functions ( 5.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Triphenyfordium.vcxproj -> C:\Users\MrSuperBuddy\source\repos\Triphenyfordium\Release\Triphenyfordium.exe
